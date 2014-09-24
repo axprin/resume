@@ -1,4 +1,4 @@
-resume
+Resume
 ======
 
-Andy's Resume
+Resume for Andy Principe - Web Developer
