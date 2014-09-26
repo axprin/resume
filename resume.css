@@ -32,8 +32,10 @@ body {
 
 #social {
 	float: right;
-	margin-right: 45%;
+	position: relative;
+	right: 50%;
 	margin-top: -70px;
+	margin-right: -102px;
 }
 
 #location {
