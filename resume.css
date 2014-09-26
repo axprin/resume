@@ -29,7 +29,11 @@ body {
 }
 
 #social {
-	float: center;
+	float: right;
+	position: relative;
+	right: 50%;
+	margin-top: -70px;
+	margin-right: -102px;
 }
 
 footer {
